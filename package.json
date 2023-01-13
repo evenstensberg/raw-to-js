@@ -1,6 +1,6 @@
 {
   "name": "raw-to-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a JS string/raw string to js object",
   "main": "bundle.js",
   "scripts": {
